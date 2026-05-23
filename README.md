@@ -39,10 +39,26 @@ O sistema pretende facilitar:
 
 | Categoria | Ferramenta |
 |---|---|
-| Gestão de tarefas | GitHub Projects |
-| Versionamento | GitHub |
+| Gestão de tarefas | **[GitHub Projects](https://github.com/users/gustavogordoni/projects/4/views/1)** |
+| Versionamento | **[GitHub](https://github.com/gustavogordoni/MonitorLab)** |
 | Documentação | LibreOffice Writer |
 | Comunicação | Discord |
+
+---
+
+## Organização das Tarefas
+
+O gerenciamento das tarefas do projeto foi realizado utilizando o GitHub Projects no modelo Kanban.
+
+O quadro foi estruturado com as seguintes colunas:
+
+- Backlog;
+- To Do;
+- Doing;
+- Done.
+
+
+Visualização do quadro de tarefas: **[Quadro Kanban do projeto](https://github.com/users/gustavogordoni/projects/4/views/1)**
 
 ---
 
