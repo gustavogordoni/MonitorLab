@@ -1,5 +1,8 @@
 # MonitorLab
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/gustavogordoni/MonitorLab?color=purple)](https://github.com/gustavogordoni/MonitorLab/commits/)
+[![License](https://img.shields.io/github/license/gustavogordoni/MonitorLab)](https://github.com/gustavogordoni/MonitorLab/blob/main/LICENSE)
+
 O MonitorLab é um sistema proposto para auxiliar no gerenciamento de monitorias acadêmicas e utilização de laboratórios de informática.
 
 A proposta do sistema é centralizar informações relacionadas aos horários de monitoria, atendimentos realizados, organização dos laboratórios e acompanhamento das atividades acadêmicas realizadas por alunos e monitores.
